@@ -65,7 +65,7 @@ namespace ElectrónicaSperen
 
                             if (optionTwo == 1)
                             {
-                                Console.WriteLine("Insert product id:");
+                                Console.WriteLine("Insert the product id:");
                                 int id = 0;
                                 if (int.TryParse(Console.ReadLine(), out int idSell)) id = idSell;
 
