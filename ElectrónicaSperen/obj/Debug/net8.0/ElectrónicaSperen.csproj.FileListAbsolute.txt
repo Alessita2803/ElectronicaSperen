@@ -1,0 +1,14 @@
+C:\Users\neti_\source\repos\ElectrónicaSperen\ElectrónicaSperen\bin\Debug\net8.0\ElectrónicaSperen.exe
+C:\Users\neti_\source\repos\ElectrónicaSperen\ElectrónicaSperen\bin\Debug\net8.0\ElectrónicaSperen.deps.json
+C:\Users\neti_\source\repos\ElectrónicaSperen\ElectrónicaSperen\bin\Debug\net8.0\ElectrónicaSperen.runtimeconfig.json
+C:\Users\neti_\source\repos\ElectrónicaSperen\ElectrónicaSperen\bin\Debug\net8.0\ElectrónicaSperen.dll
+C:\Users\neti_\source\repos\ElectrónicaSperen\ElectrónicaSperen\bin\Debug\net8.0\ElectrónicaSperen.pdb
+C:\Users\neti_\source\repos\ElectrónicaSperen\ElectrónicaSperen\obj\Debug\net8.0\ElectrónicaSperen.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\neti_\source\repos\ElectrónicaSperen\ElectrónicaSperen\obj\Debug\net8.0\ElectrónicaSperen.AssemblyInfoInputs.cache
+C:\Users\neti_\source\repos\ElectrónicaSperen\ElectrónicaSperen\obj\Debug\net8.0\ElectrónicaSperen.AssemblyInfo.cs
+C:\Users\neti_\source\repos\ElectrónicaSperen\ElectrónicaSperen\obj\Debug\net8.0\ElectrónicaSperen.csproj.CoreCompileInputs.cache
+C:\Users\neti_\source\repos\ElectrónicaSperen\ElectrónicaSperen\obj\Debug\net8.0\ElectrónicaSperen.dll
+C:\Users\neti_\source\repos\ElectrónicaSperen\ElectrónicaSperen\obj\Debug\net8.0\refint\ElectrónicaSperen.dll
+C:\Users\neti_\source\repos\ElectrónicaSperen\ElectrónicaSperen\obj\Debug\net8.0\ElectrónicaSperen.pdb
+C:\Users\neti_\source\repos\ElectrónicaSperen\ElectrónicaSperen\obj\Debug\net8.0\ElectrónicaSperen.genruntimeconfig.cache
+C:\Users\neti_\source\repos\ElectrónicaSperen\ElectrónicaSperen\obj\Debug\net8.0\ref\ElectrónicaSperen.dll
